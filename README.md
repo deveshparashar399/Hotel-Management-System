@@ -43,5 +43,5 @@ A desktop-based Hotel Management System developed using **Java (Swing & AWT)** a
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/hotel-management-system.git
+   git clone [https://github.com/your-username/hotel-management-system.git](https://github.com/deveshparashar399/Hotel-Management-System.git)
    cd hotel-management-system
